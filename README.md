@@ -12,6 +12,4 @@ DevOps & Deployment: Docker, Swagger, JWT Authentication.
 
 
 ### 📫 Let's Connect!
-🔗 LinkedIn
-🔗 GitHub
-🔗 Portfolio (if available)
+🔗 [LinkedIn](https://www.linkedin.com/in/rafael-alves-114a43230/)
