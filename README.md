@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Hello, I'm Rafael!
+### 💻 C# & Python Developer | 🔧 API & Back-End Specialist
 
-<!--
-**7Rafael/7Rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Optional: Add a cool banner image)
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I'm a passionate C# and Python developer specializing in API development, back-end systems, and software engineering. I enjoy building scalable applications and solving complex problems using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Tools: ASP.NET Core, Flask, Entity Framework, AutoMapper
+Databases: MySQL, SQL Server
+DevOps & Deployment: Docker, Swagger, JWT Authentication.
+
+
+### 📫 Let's Connect!
+🔗 LinkedIn
+🔗 GitHub
+🔗 Portfolio (if available)
